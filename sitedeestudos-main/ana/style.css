@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #A7BCFB;
+    color: #04144D 
+}
+
+.principal{
+    background-image: url(img/1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.container{
+    height: 100vh;
+}
