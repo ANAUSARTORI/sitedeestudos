@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #A7BCFB;
+    color: #04144D 
+}
+
+.principal{
+    background-image: url(img/1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.container{
+    height: 120vh;
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+.container_botao{
+    background-color: #A7BCFB;
+    border-radius:3px;
+    padding:15px;
+    color:#04144D;
+    display:block;
+ }
+ .container_aviso{
+     font-size: 10px;
+ }
+ .container_caixa{
+     margin: 0 0;
+ }
+    
