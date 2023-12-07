@@ -4,11 +4,8 @@
 }
 
 body{
-
     background-color: #A7BCFB;
-    font-size: 20px;
-    font-weight: 400px;
-    color: #04144D
+    color: #04144D 
 }
 
 .principal{
@@ -22,19 +19,27 @@ body{
     grid-template-columns: 50% 50%;
 }
 .container_botao{
-    text-decoration: none;
     background-color: #A7BCFB;
     border-radius:3px;
     padding:15px;
     color:#04144D;
     display:block;
  }
-    .botao_secundario{
-        text-decoration: none;
-        background-color: transparent;
-        border: 2px solid white;
+ .container_aviso{
+     font-size: 10px;
  }
-    .container_aviso{
-        font-size: 10px;
-}
-
+ .container_caixa{
+     margin: 0 0;
+ }
+ .secundario_imagem{
+     width: 80%;
+ }
+ .secundario{
+     align-items: center;
+     margin: -10em 0cm;
+ }
+ .container_descricao{
+ color: black;
+ font-size: 30px;
+ }
+    
